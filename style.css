@@ -1,6 +1,9 @@
 body{
-    background-color: #F5DEB3;
+   
     text-align: center;
+}
+.principal{
+    background-color: #F5DEB3;
 }
 
 h1{
@@ -15,4 +18,13 @@ p{
 
 #imagem1{
     width: 100%;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background-color: white;
+
 }
